@@ -1,6 +1,6 @@
-# Frontend-challenges
-This is a repo with frontend company challenges
+# Desafios frontend
+Este é um repositório com desafios de empresas reais, para fundamentar nossos conhecimentos.
 
 | Challenge | Overview | Tech Stack 
 | --- | --- | --- 
-| <a href="https://github.com/1STi/desafio-frontend/">Weather Api</a> | Create an React app that fetches data from an weather api | React 
+| <a href="https://github.com/1STi/desafio-frontend/">Weather Api</a> | Criar um app React que busque informações em uma api de clima tempo | React 
