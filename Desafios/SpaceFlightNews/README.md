@@ -1,4 +1,4 @@
-# Fullstack Challenge 🏅 2021 - Space Flight News
+# Space Flight News - Site de noticias sobre espaço
 
 ## Introdução
 
