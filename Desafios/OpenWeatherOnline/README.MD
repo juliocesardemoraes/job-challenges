@@ -9,11 +9,13 @@ Neste desafio, você tem a tarefa de criar um aplicativo de clima que recupera d
 ## Requisitos:
 
 Requisitos principais que sua aplicação deve ter:
+Você pode se inspirar nesse layout( Lembrando que é um design de baixa fidelidade então é mais importante que você crie seu próprio design se inspirando na posição destes elementos e nas disposições das informações):
+![List users](img/wireframe.png)
 
 - [ ] Use a WeatherAPI para recuperar dados meteorológicos de uma determinada localização (você pode escolher qualquer localização que desejar)
 - [ ] Exiba as informações meteorológicas em uma página da web usando um framework front-end moderno de sua escolha (React.js, Vue.js ou Angular 8+)
 - [ ] Permita que os usuários pesquisem dados meteorológicos para diferentes locais usando um campo de entrada
-- [ ] Use WebSockets para compartilhar informações meteorológicas com outros usuários do aplicativo em tempo real
+- [ ] Use WebSockets para compartilhar informações meteorológicas com outros usuários do aplicativo em tempo real.
 - [ ] Crie um backend para utilizar o websocket
 
 ## Bonus
