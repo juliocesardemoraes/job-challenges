@@ -118,5 +118,3 @@ Para o desenvolvimento você pode utilizar algum framework CSS ou criar seu prop
 - Como instalar e usar o projeto (instruções)
 - Não esqueça o [.gitignore](https://www.toptal.com/developers/gitignore)
 - Se está usando github pessoal, referencie que é um challenge by coodesh:
-
-> This is a challenge by [Coodesh](https://coodesh.com/)
