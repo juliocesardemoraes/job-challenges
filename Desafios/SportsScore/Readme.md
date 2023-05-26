@@ -18,7 +18,7 @@ Para pegar as notícias da Premier league
 
 Design Figma:
 
-- https://www.figma.com/file/PRY7rYGsK32uiW5rcB6Gj4/ProjetoNBA?type=design&node-id=0%3A1&t=lLllnQPiyDJoAgwR-1
+- [https://www.figma.com/file/PRY7rYGsK32uiW5rcB6Gj4/ProjetoNBA?type=design&node-id=0%3A1&t=lLllnQPiyDJoAgwR-1](https://www.figma.com/file/0wbpjc3rl9QRXmrjZxGMd4/Aplicativo-de-Placares-de-Esportes?type=design&node-id=0%3A1&t=BtMfi2XFa5QH5Gya-1)
 
 # O desafio
 
