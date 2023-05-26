@@ -3,22 +3,28 @@
 # O que é
 
 Este é um desafio de frontend que consiste na criação de um aplicativo de placares esportivos para futebol e basquete ou até outros esportes, utilizando a API da ESPN.
-https://gist.github.com/akeaswaran/b48b02f1c94f873c6655e7129910fc3b
+
+Para ver todas as requisições de esportes:
+
+- https://gist.github.com/akeaswaran/b48b02f1c94f873c6655e7129910fc3b
 
 Para pegar placares de futebol(Premier League):
 
 - http://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard
 
-Notícias Premier league
+Para pegar as notícias da Premier league
 
 - http://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/news
+
+Design Figma:
+
+- https://www.figma.com/file/PRY7rYGsK32uiW5rcB6Gj4/ProjetoNBA?type=design&node-id=0%3A1&t=lLllnQPiyDJoAgwR-1
 
 # O desafio
 
 - [ ] Consumir a API da ESPN através de solicitações HTTP GET a cada 10 segundos;
 - [ ] Analisar a resposta da API para extrair as informações relevantes, como placar, times, data, hora e detalhes da partida;
 - [ ] Criar uma aplicação web em ReactJS com layout responsivo, seguindo fielmente o design fornecido no Figma;
-- [ ] Implementar duas versões do aplicativo: uma para desktop e outra para dispositivos móveis;
 - [ ] Estilizar a aplicação para que se assemelhe o máximo possível ao design fornecido, utilizando HTML, CSS e JavaScript. No ReactJs.
 
 ## Extra
