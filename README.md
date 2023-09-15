@@ -13,6 +13,6 @@ Este é um repositório com desafios de empresas reais, para fundamentar nossos 
 
 ## Live Code Tests
 
-| Challenge                                                                                                                                     | Overview                                  | Tech Stack |
-| --------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------- | ---------- |
-| <a href="https://github.com/juliocesardemoraes/job-challenges/tree/main/Desafios/FixedSizedArrayTest">Teste lógico de Array em typescript</a> | Criar função de pop e push em estilo FIFO | TS         |
+| Challenge                                                                                                                                              | Overview                                  | Tech Stack |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------- | ---------- |
+| <a href="https://github.com/juliocesardemoraes/job-challenges/tree/main/Desafios/FixedSizedArrayTest/index.ts">Teste lógico de Array em typescript</a> | Criar função de pop e push em estilo FIFO | TS         |
