@@ -4,7 +4,7 @@
 
 Este é um desafio para que possamos ver as suas habilidades como Fullstack Developer.
 
-Nesse desafio você deverá desenvolver uma REST API que utilizará os dados do projeto [Space Flight News](https://api.spaceflightnewsapi.net/v3/documentation), uma API pública com informações relacionadas a voos espaciais. Também deverá desenvolver um projeto front-end para consumir as informações da sua API.
+Nesse desafio você deverá desenvolver uma REST API que utilizará os dados do projeto [Space Flight News](https://api.spaceflightnewsapi.net/v4/docs/#/articles/articles_list), uma API pública com informações relacionadas a voos espaciais. Também deverá desenvolver um projeto front-end para consumir as informações da sua API.
 
 O projeto a ser desenvolvido por você tem como objetivo exibir os dados dos artigos, com o título, imagem, resumo e data de publicação. Para isso você deve seguir o wireframe que você encontrará logo abaixo. Atente-se, ao desenvolver a aplicação front-end, para conceitos de usabilidade e adeque o wireframe com elementos visuais para os usuários do seu sistema.
 
@@ -48,7 +48,7 @@ Para a definição do modelo consulte a rota [GET]/articles da API, nesta rota v
 
 ### Back-End:
 
-Nessa etapa você deverá construir uma API Restful com as melhores práticas de desenvolvimento, baseada na API [Space Flight News](https://api.spaceflightnewsapi.net/v3/documentation). Para isso você deve executar os passos a seguir:
+Nessa etapa você deverá construir uma API Restful com as melhores práticas de desenvolvimento, baseada na API [Space Flight News](https://api.spaceflightnewsapi.net/v4/docs/#/articles/articles_list). Para isso você deve executar os passos a seguir:
 
 **Obrigatório 1** - Você deverá desenvolver as seguintes rotas:
 
